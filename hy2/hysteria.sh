@@ -2,7 +2,7 @@
 
 export LANG=en_US.UTF-8
 
-SNI_URL="shp.ee"
+SNI_URL="www.shopee.co.id"
 MASQUERADE_URL="speedtest.net" # without https://
 
 RED="\033[31m"
