@@ -2,7 +2,7 @@
 
 export LANG=en_US.UTF-8
 
-SNI_URL="www.bing.com"
+SNI_URL="shp.ee"
 MASQUERADE_URL="speedtest.net" # without https://
 
 RED="\033[31m"
